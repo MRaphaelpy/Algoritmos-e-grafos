@@ -1,6 +1,7 @@
 # Algoritmos e Grafos
 
 Bem-vindo ao repositório de Algoritmos e Grafos! Este é um espaço dedicado ao estudo e implementação de algoritmos relacionados a grafos, uma disciplina essencial na Ciência da Computação.
+Todos os algoritimos foram implementados com base do livro, Algoritmos - Teoria e Prática (Thomas H. Cormen, Charles E. Leiserson etc.)
 
 ## Conteúdo
 
