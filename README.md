@@ -15,11 +15,11 @@ Neste repositório, você encontrará implementações de algoritmos clássicos 
 
 ## Algoritmos Implementados
 
-1. **BFS (Breadth-First Search):** Descrição breve do algoritmo e link para o código-fonte.
-2. **DFS (Depth-First Search):** Descrição breve do algoritmo e link para o código-fonte.
-3. **Dijkstra:** Descrição breve do algoritmo e link para o código-fonte.
-4. **Prim:** Descrição breve do algoritmo e link para o código-fonte.
-5. **Kruskal:** Descrição breve do algoritmo e link para o código-fonte.
+1. **BFS (Breadth-First Search):**
+2. **DFS (Depth-First Search):**
+3. **Dijkstra:** 
+4. **Prim:** 
+5. **Kruskal:** 
 
 _Fique à vontade para adicionar mais algoritmos e expandir esta lista._
 
